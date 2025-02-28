@@ -1,0 +1,15 @@
+1. Abstract Class (Soyut Sınıf) Nedir?
+Bir soyut sınıf, içinde tamamen tamamlanmamış, yani bazı metotların içeriği olmayan bir sınıftır. Bu sınıfı kendisi doğrudan kullanamayız, ama ondan başka sınıflar türetebiliriz. Soyut sınıf, bir şablon gibidir. Yani, onun içinde hangi metotların olması gerektiğini belirleriz, ama bu metotların nasıl çalışacağına dair detayları alt sınıflara bırakırız.
+
+2. Abstraction (Soyutlama) Nedir?
+Soyutlama, karmaşık bir sistemi basit bir şekilde anlatma işlemidir. Yani, bir nesnenin ya da olayın sadece önemli yönlerini gösterip, detayları gizleriz.
+
+3. Polymorphism (Çok Biçimlilik) Nedir?
+Çok biçimlilik, bir nesnenin ya da metodun birden fazla şekilde davranabilmesi durumudur. Yani, aynı isimdeki bir metodu farklı sınıflarda farklı şekillerde kullanabilmemizdir.
+
+Özet Şekli ise;
+
+Soyut sınıf, bir sınıfın şablonudur, ama tam olarak kullanılamaz, alt sınıflar bunun detaylarını doldurur.
+Soyutlama, karmaşık şeyleri basit hale getirme işlemidir. Detayları gizleriz ve sadece gerekli olan bilgiyi gösteririz.
+Çok biçimlilik, aynı isme sahip metodun farklı şekillerde çalışmasıdır. Yani, bir metod farklı sınıflarda farklı şekilde davranabilir.
+
